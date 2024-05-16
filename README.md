@@ -37,18 +37,18 @@ Using the `*.move` and `Move.toml` build and deploy the smart contract on the CL
 
 Live E2E Latency Numbers are displayed [here](https://aptoslabs.grafana.net/public-dashboards/f32a07a7ef01456cbb9f79ac975fb00e?orgId=1&refresh=15m).
 
-Below are E2E Latency Numbers snapshotted at 3PM on May 9, 2024:
+Below are E2E Latency Numbers snapshotted at 10AM on May 16, 2024 (Pacific Time):
 
 |Blockchain           |E2E Latency in seconds
 |---------------------|----------------------|
-|Aptos                |0.95                  |
+|Aptos                |0.98                  |
 |Arbitrum             |2.55                  |
-|Avalanche-C          |4.21                  |
-|Base                 |3.96                  |
-|Near                 |4.74                  |
-|Optimism             |4.08                  |
-|Polygon              |7.06                  |
-|Solana (confirmed)   |10.20                 |
-|Solana (finalized)   |25.40                 |
-|Sui (fast path - 20%)|1.92                  |
-|Sui (slow path - 80%)|4.35                  |
+|Avalanche-C          |4.40                  |
+|Base                 |3.68                  |
+|Near                 |4.25                  |
+|Optimism             |4.10                  |
+|Polygon              |7.08                  |
+|Solana (confirmed)   |15.0                  |
+|Solana (finalized)   |27.4                  |
+|Sui (fast path - 20%)|1.14                  |
+|Sui (slow path - 80%)|2.94                  |
